@@ -14,8 +14,8 @@ Each tutorial teaches one concept with **two real-life examples** — one for ev
 
 | # | Topic | What you'll learn | Status |
 |---|-------|-------------------|--------|
-| 01 | [Memory (CLAUDE.md)](01-memory/) | Teach Claude about your project and preferences | Coming soon |
-| 02 | [Commands](02-commands/) | Create reusable slash commands for repeated tasks | Coming soon |
+| 01 | [Memory (CLAUDE.md)](01-memory/) | Teach Claude about your project and preferences | Available |
+| 02 | [Commands](02-commands/) | Create reusable slash commands for repeated tasks | Available |
 | 03 | [Agents (Subagents)](03-agents/) | Delegate work to specialized AI workers | Coming soon |
 | 04 | [Skills](04-skills/) | Build auto-discoverable knowledge modules | Coming soon |
 | 05 | [Hooks](05-hooks/) | Run scripts when Claude does things | Coming soon |
