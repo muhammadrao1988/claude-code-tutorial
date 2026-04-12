@@ -45,11 +45,6 @@ This repo uses Claude Code to manage its own development:
 - **Specs** log what was built and when
 
 See [backlog/](backlog/) for upcoming topics and [specs/](specs/) for completed work.
-
-## Credits
-
-Inspired by [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) by Shayan Rais — a comprehensive reference guide for Claude Code. This repo takes a different approach: hands-on tutorials with working examples for both technical and non-technical users.
-
 ## License
 
 MIT
