@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(pwd)",
+      "Bash(date)"
+    ],
+    "deny": [
+      "Bash(rm *)",
+      "Bash(sudo *)",
+      "Bash(chmod *)"
+    ]
+  }
+}

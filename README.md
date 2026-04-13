@@ -18,8 +18,8 @@ Each tutorial teaches one concept with **two real-life examples** — one for ev
 | 02 | [Commands](02-commands/) | Create reusable slash commands for repeated tasks | Available |
 | 03 | [Agents (Subagents)](03-agents/) | Delegate work to specialized AI workers | Available |
 | 04 | [Skills](04-skills/) | Build auto-discoverable knowledge modules | Available |
-| 05 | [Hooks](05-hooks/) | Run scripts when Claude does things | Coming soon |
-| 06 | [Settings & Permissions](06-settings/) | Configure Claude's behavior and access | Coming soon |
+| 05 | [Hooks](05-hooks/) | Run scripts when Claude does things | Available |
+| 06 | [Settings & Permissions](06-settings/) | Configure Claude's behavior and access | Available |
 | 07 | [MCP Servers](07-mcp/) | Connect Claude to external tools and APIs | Coming soon |
 | 08 | [Orchestration](08-orchestration/) | Combine commands, agents, and skills into workflows | Coming soon |
 | 09 | [Agent Teams](09-agent-teams/) | Coordinate multiple Claude sessions working together | Coming soon |

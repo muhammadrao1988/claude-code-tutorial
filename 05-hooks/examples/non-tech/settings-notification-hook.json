@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "notify-send 'Claude Code' 'Claude finished a task' 2>/dev/null || osascript -e 'display notification \"Claude finished a task\" with title \"Claude Code\"' 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}
