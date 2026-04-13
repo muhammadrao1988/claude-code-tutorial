@@ -28,6 +28,18 @@ touch .claude/agents/my-agent.md
 
 Define the agent's role, tools, and instructions inside that file. Claude will use this agent when you mention it or when the task matches.
 
+Agents are auto-discovered -- no extra settings needed. But if you want to control which agents are allowed, add them to your `.claude/settings.json`:
+
+```json
+{
+  "permissions": {
+    "allow": ["Agent(research-assistant)", "Agent(code-reviewer)"]
+  }
+}
+```
+
+This lets those agents run without permission prompts. You can also use `"deny"` to block specific agents.
+
 ## Example 1: For Everyone
 
 You often need to research topics for work or school. Instead of asking Claude to do everything at once, create a dedicated research agent.
