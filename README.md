@@ -35,17 +35,6 @@ Each tutorial teaches one concept with **two real-life examples** — one for ev
 
 Each tutorial is self-contained — start with any topic that interests you. If you're new, start with **01-memory**.
 
-## How this repo manages itself
-
-This repo uses Claude Code to manage its own development:
-
-- **Agents** research new topics and track completed work
-- **Commands** scaffold new tutorials and publish updates
-- **Skills** enforce consistent writing style
-- **Backlog** tracks upcoming tutorial topics
-- **Specs** log what was built and when
-
-See [backlog/](backlog/) for upcoming topics and [specs/](specs/) for completed work.
 ## License
 
 MIT
