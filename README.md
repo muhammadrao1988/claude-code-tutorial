@@ -22,7 +22,7 @@ Each tutorial teaches one concept with **two real-life examples** — one for ev
 | 06 | [Settings & Permissions](06-settings/) | Configure Claude's behavior and access | Available |
 | 07 | [MCP Servers](07-mcp/) | Connect Claude to external tools and APIs | Available |
 | 08 | [Orchestration](08-orchestration/) | Combine commands, agents, and skills into workflows | Available |
-| 09 | [Agent Teams](09-agent-teams/) | Coordinate multiple Claude sessions working together | Coming soon |
+| 09 | [Agent Teams](09-agent-teams/) | Coordinate multiple Claude sessions working together | Available |
 
 ## How to use this repo
 
