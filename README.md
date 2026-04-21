@@ -23,6 +23,7 @@ Each tutorial teaches one concept with **two real-life examples** — one for ev
 | 07 | [MCP Servers](07-mcp/) | Connect Claude to external tools and APIs | Available |
 | 08 | [Orchestration](08-orchestration/) | Combine commands, agents, and skills into workflows | Available |
 | 09 | [Agent Teams](09-agent-teams/) | Coordinate multiple Claude sessions working together | Available |
+| 10 | [Learning Loop](10-learning-loop/) | Karpathy-inspired self-improving loop (tune resume, skills, prompts) | Available |
 
 ## How to use this repo
 
